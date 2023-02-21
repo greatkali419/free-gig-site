@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/free-gig-site/static/css/main.45441283.css",
+    "main.js": "/free-gig-site/static/js/main.0f28d13d.js",
+    "static/media/background.jpg": "/free-gig-site/static/media/background.ec8d4f0545c959cec16c.jpg",
+    "static/media/LOGO.png": "/free-gig-site/static/media/LOGO.1e916d999105f07b1fb4.png",
+    "static/media/icon-instagram.svg": "/free-gig-site/static/media/icon-instagram.481654e0efa0d6f4a3087b4a15473b3c.svg",
+    "index.html": "/free-gig-site/index.html",
+    "static/media/icon2.svg": "/free-gig-site/static/media/icon2.a385300fcfccba18f4cd45044e866403.svg",
+    "static/media/icon.svg": "/free-gig-site/static/media/icon.f828a9106365a9b3e784bbdcf57fb669.svg",
+    "static/media/icon-close.svg": "/free-gig-site/static/media/icon-close.cf802828214f18a42c60adf9afa43a75.svg",
+    "static/media/icon-hamburger.svg": "/free-gig-site/static/media/icon-hamburger.129f8c79b20ea32391d05943d706b278.svg",
+    "static/media/dropup.svg": "/free-gig-site/static/media/dropup.325b46e3706a5e4a13facf4e2f8b1a50.svg",
+    "static/media/dropdown.svg": "/free-gig-site/static/media/dropdown.16bc69627be361cc6fa317207b215fac.svg",
+    "main.45441283.css.map": "/free-gig-site/static/css/main.45441283.css.map",
+    "main.0f28d13d.js.map": "/free-gig-site/static/js/main.0f28d13d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45441283.css",
+    "static/js/main.0f28d13d.js"
+  ]
+}
